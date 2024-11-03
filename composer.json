@@ -1,0 +1,7 @@
+{
+  "autoload": {
+   "files": ["/app/classes/database.php",
+     "/public/upload.php" 
+   ]
+  }
+}
