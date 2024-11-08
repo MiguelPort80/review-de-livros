@@ -1,4 +1,4 @@
-<?php require "/home/miguel/cursos/php/pratical/books/app/bootstrap.php"?>
+<?php require __DIR__ .  "/../app/bootstrap.php"; ?>
 <html lang="pt-br">
   <head>
     <meta charset="utf-8">
